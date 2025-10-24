@@ -15,6 +15,7 @@ The project involves developing a Tic-Tac-Toe game implementation incorporating 
 
 <h1>The Minimax algorithm</h1>
 
+
 recursively evaluates all possible moves and their potential outcomes, creating a game tree.
 
 <h1>Alpha-Beta pruning</h1>
